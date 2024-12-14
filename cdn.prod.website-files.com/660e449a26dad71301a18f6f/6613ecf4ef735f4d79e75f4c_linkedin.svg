@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Artboard1" x="0" y="0" width="48" height="48" style="fill:none;"/>
+    <g id="Artboard11" serif:id="Artboard1">
+        <circle cx="24.045" cy="24.042" r="23.53"/>
+        <g id="linkedin_logo.svg" transform="matrix(0.0281022,0,0,0.0281022,24,24)">
+            <g transform="matrix(1,0,0,1,-400,-400)">
+                <g transform="matrix(1,0,0,1,-4960,-292760)">
+                    <g id="Page-1">
+                        <g id="Dribbble-Light-Preview">
+                            <g id="icons">
+                                <path id="linkedin---161-" serif:id="linkedin-[#161]" d="M5760,293560L5600,293560L5600,293280C5600,293203 5566.12,293160 5505.36,293160C5439.24,293160 5400,293205 5400,293280L5400,293560L5240,293560L5240,293040L5400,293040L5400,293098C5400,293098 5450.2,293010 5563.32,293010C5676.48,293010 5760,293079 5760,293222L5760,293560ZM5057.68,292957C5003.72,292957 4960,292913 4960,292858C4960,292804 5003.72,292760 5057.68,292760C5111.6,292760 5155.32,292804 5155.32,292858C5155.36,292913 5111.6,292957 5057.68,292957ZM4960,293560L5160,293560L5160,293040L4960,293040L4960,293560Z" style="fill:white;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
